@@ -5,8 +5,6 @@ import CustomerHeader from "./_components/CustomerHeader";
 import Footer from "./_components/Footer";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import RestaurantLogin from '../_components/RestaurantLogin';
-import RestaurantSignUp from '../_components/RestaurantSignUp';
 
 
 export default function Home() {
